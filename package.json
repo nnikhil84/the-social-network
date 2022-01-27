@@ -1,0 +1,25 @@
+{
+  "name": "the-social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnikhil84/the-social-network.git"
+  },
+  "author": "Nikhil Nikhil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnikhil84/the-social-network/issues"
+  },
+  "homepage": "https://github.com/nnikhil84/the-social-network#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.8"
+  }
+}
