@@ -19,7 +19,6 @@
   "homepage": "https://github.com/nnikhil84/the-social-network#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "moment": "^2.29.1",
     "mongoose": "^6.1.8"
   }
 }
